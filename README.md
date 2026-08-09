@@ -29,3 +29,7 @@
 
 ### Depois, use a propriedade para alterar o conteúdo HTML do elemento HTML:innerHTML
 
+### Use o innerHTML quando quiser mudar um elemento HTML.
+
+
+
